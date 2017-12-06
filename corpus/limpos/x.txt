@@ -1,0 +1,39 @@
+ O volume na unidade C ‚ OS
+ O N£mero de S‚rie do Volume ‚ 14E4-665C
+
+ Pasta de C:\Users\edusm\OneDrive\Documentos\uff\trabalhos\inteligencia_artificial\limpos
+
+18/11/2017  17:25    <DIR>          .
+18/11/2017  17:25    <DIR>          ..
+18/11/2017  17:18           151.849 cl_a_bela_e_a_fera.txt
+18/11/2017  17:18           304.557 cl_A_Cidade_Sitiada.txt
+18/11/2017  17:18           290.555 cl_A_Descoberta_do_Mundo.txt
+18/11/2017  17:18           661.145 cl_A_Maca_no_Escuro.txt
+18/11/2017  17:18           251.447 cl_A_Paixao_segundo_GH.txt
+18/11/2017  17:18           201.930 cl_Lacos_de_Familia.txt
+18/11/2017  17:18            30.462 cl_matou_os_peixes.txt
+18/11/2017  12:58             9.743 cl_o_coelho_pensante.txt
+18/11/2017  17:18           514.857 cl_o_lustre.txt
+18/11/2017  17:18           162.869 ev_AS_AVENTURAS_DE_TIBICUERA.txt
+18/11/2017  17:18           556.683 ev_Caminhos_Cruzados.txt
+18/11/2017  17:18           295.997 ev_clarissa.txt
+18/11/2017  17:18           567.266 ev_olhai_os_lirios_dos_campos.txt
+18/11/2017  17:18           763.030 ev_o_continente_1.txt
+18/11/2017  17:18           817.660 ev_o_continente_2.txt
+18/11/2017  17:18         1.369.030 ev_o_retrato1.txt
+18/11/2017  17:18           732.400 ev_o_retrato2.txt
+18/11/2017  17:18           317.758 ev_prisioneiro.txt
+18/11/2017  17:18           939.346 ev_senhor_embaixador.txt
+18/11/2017  17:18           393.038 ev_um_certo_capitao_rodrigo.txt
+18/11/2017  17:18           141.632 ja_cacau.txt
+18/11/2017  17:18         1.021.455 ja_Dona_flor_seus_dois_maridos.txt
+18/11/2017  17:18           425.486 ja_FARDA_FARDAO_CAMISOLA_DORMIR.txt
+18/11/2017  17:18           508.514 ja_jubiaba.txt
+18/11/2017  17:18            38.320 ja_menino_grapiuna.txt
+18/11/2017  17:18            70.288 ja_O_Gato_Malhado_e_a_Andorinha_Sinha.txt
+18/11/2017  17:18           662.116 ja_pastores_noite.txt
+18/11/2017  17:18           183.643 ja_suor.txt
+18/11/2017  17:18           875.823 ja_tieta.txt
+18/11/2017  17:25                 0 x.txt
+              30 arquivo(s)     13.258.899 bytes
+               2 pasta(s)   244.139.208.704 bytes dispon¡veis
