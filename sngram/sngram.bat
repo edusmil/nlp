@@ -1,0 +1,1 @@
+python MultiSNgrams_3_3_p3.py %1 %2 2 2 5 0
